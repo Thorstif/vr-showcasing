@@ -1,6 +1,8 @@
 # vr-showcasing
 Import 3D models during runtime into a virtual reality environment for inspection and interaction.
 
+This was a school project for a bacherlor's in software engineering.
+
 TODO: Translate Norwegian comments to English.
 
 Disclaimer: As this project uses the Oculus Avatar SDK, a lot of the assets are produced by Oculus. I'm not sure of the licensing in regards to that.
